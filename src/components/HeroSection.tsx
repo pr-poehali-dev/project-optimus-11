@@ -5,7 +5,7 @@ const images = [
   'https://cdn.poehali.dev/projects/33df3bf2-2d5a-43d6-bf40-046fef802e6a/files/a7a19ad7-6931-4104-a4d8-d36eb6dc10bf.jpg',
   'https://cdn.poehali.dev/projects/33df3bf2-2d5a-43d6-bf40-046fef802e6a/files/af46452d-c633-4e6d-8fb1-ee95b9a75de7.jpg',
   'https://cdn.poehali.dev/projects/33df3bf2-2d5a-43d6-bf40-046fef802e6a/files/f2f5e527-5485-4932-ad62-c5e504c0de16.jpg',
-  'https://cdn.poehali.dev/projects/33df3bf2-2d5a-43d6-bf40-046fef802e6a/files/cfa385c5-fca7-4a42-90ce-c685586182ff.jpg',
+  'https://cdn.poehali.dev/projects/33df3bf2-2d5a-43d6-bf40-046fef802e6a/bucket/5548375d-95e7-46ee-bb67-52d9ed66be6d.png',
 ];
 
 export default function HeroSection() {
