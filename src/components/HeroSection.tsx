@@ -17,7 +17,7 @@ export default function HeroSection() {
     setIsLoaded(true);
     const interval = setInterval(() => {
       setCurrentIndex((prev) => (prev + 1) % images.length);
-    }, 4000);
+    }, 10000);
 
     return () => clearInterval(interval);
   }, []);
