@@ -73,7 +73,7 @@ export default function HeroSection() {
                   Попов Алексей
                 </p>
                 <p className="text-xl font-light text-white/80 md:text-2xl">
-                  Фотограф | Творческий специалист
+                  Врач-рентгенолог | Преподаватель
                 </p>
                 <div className="flex gap-6 pt-4">
                   <a
