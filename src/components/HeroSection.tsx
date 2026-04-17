@@ -2,10 +2,10 @@ import { useEffect, useState } from 'react';
 import { cn } from '@/lib/utils';
 
 const images = [
-  '/artistic-black-and-white-portrait-creative.jpg',
-  '/fashion-purple-fur-portrait.jpg',
-  '/artistic-makeup-portrait.jpg',
-  '/abstract-black-and-white-photography-creative-stud.jpg',
+  'https://cdn.poehali.dev/projects/33df3bf2-2d5a-43d6-bf40-046fef802e6a/files/a7a19ad7-6931-4104-a4d8-d36eb6dc10bf.jpg',
+  'https://cdn.poehali.dev/projects/33df3bf2-2d5a-43d6-bf40-046fef802e6a/files/c8680cb5-1aaa-40d8-a971-4effa2562180.jpg',
+  'https://cdn.poehali.dev/projects/33df3bf2-2d5a-43d6-bf40-046fef802e6a/files/f2f5e527-5485-4932-ad62-c5e504c0de16.jpg',
+  'https://cdn.poehali.dev/projects/33df3bf2-2d5a-43d6-bf40-046fef802e6a/files/3c6c9db5-99e1-4c96-8c7b-7403a7985e57.jpg',
 ];
 
 export default function HeroSection() {
