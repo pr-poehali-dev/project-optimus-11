@@ -37,6 +37,7 @@ export default function Footer() {
         </a>
       </div>
       <p className="text-sm">© {new Date().getFullYear()} Попов Алексей. Все права защищены.</p>
+      <p className="text-xs mt-2 text-white/40">Попов Алексей Юрьевич, ИНН 644101988643</p>
     </footer>
   );
 }
